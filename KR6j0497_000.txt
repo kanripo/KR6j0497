@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大聖天歡喜雙身毘那夜迦法
+#+DATE: 2015-08-30 20:33:42.590652
+#+PROPERTY: JUAN 0
