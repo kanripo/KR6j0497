@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:42.343417
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:19
 #+TITLE: 大聖天歡喜雙身毘那夜迦法
 #+PROPERTY: CBETA_ID T21n1266
 #+PROPERTY: ID KR6j0497
@@ -95,7 +95,7 @@ No.1266¶
 
 以上呪呪水七遍當用洗浴。¶
 
-調和毘那夜迦法
+* 調和毘那夜迦法
 :PROPERTIES:
 :head: 調和毘那夜迦法
 :END:
@@ -129,7 +129,7 @@ No.1266¶
 誦呪一百八遍。即心歡喜非但夢中。但覺有¶
 魔事即作前法定好。¶
 
-造像法
+* 造像法
 :PROPERTIES:
 :head: 造像法
 :END:
